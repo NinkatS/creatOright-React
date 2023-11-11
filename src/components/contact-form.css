@@ -1,0 +1,198 @@
+.contact-form-cta {
+  width: 1440px;
+  height: 632px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-neutral-50);
+}
+.contact-form-form-element {
+  gap: 10px;
+  top: 206px;
+  left: 424px;
+  width: 280px;
+  display: flex;
+  padding: 10px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(224, 226, 234, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contact-form-text {
+  color: rgba(163, 170, 193, 1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.contact-form-text01 {
+  color: var(--dl-color-neutral-300);
+  font-weight: 400;
+}
+.contact-form-form-element1 {
+  gap: 10px;
+  top: 267px;
+  left: 424px;
+  width: 280px;
+  display: flex;
+  padding: 10px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(224, 226, 234, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contact-form-text02 {
+  color: rgba(163, 170, 193, 1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.contact-form-text03 {
+  color: var(--dl-color-neutral-300);
+  font-weight: 400;
+}
+.contact-form-icroundarrowdropdowncircle {
+  width: 20px;
+  height: 20px;
+}
+.contact-form-form-element2 {
+  gap: 10px;
+  top: 206px;
+  left: 736px;
+  width: 280px;
+  display: flex;
+  padding: 10px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(224, 226, 234, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contact-form-text04 {
+  color: rgba(163, 170, 193, 1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.contact-form-text05 {
+  color: var(--dl-color-neutral-300);
+  font-weight: 400;
+}
+.contact-form-form-element3 {
+  gap: 10px;
+  top: 267px;
+  left: 736px;
+  width: 280px;
+  display: flex;
+  padding: 10px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(224, 226, 234, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contact-form-text06 {
+  color: var(--dl-color-neutral-300);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.contact-form-form-element4 {
+  gap: 10px;
+  top: 328px;
+  left: 424px;
+  width: 592px;
+  height: 135px;
+  display: flex;
+  padding: 10px 8px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(224, 226, 234, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contact-form-text08 {
+  color: var(--dl-color-neutral-300);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.contact-form-text10 {
+  top: 60px;
+  left: 504px;
+  color: var(--dl-color-neutral-800);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.contact-form-text12 {
+  top: 122px;
+  left: 451px;
+  color: var(--dl-color-neutral-800);
+  width: 539px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.contact-form-button {
+  gap: 10px;
+  top: 518px;
+  left: 585px;
+  width: 271px;
+  display: flex;
+  padding: 16px 20px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 2px;
+  justify-content: center;
+  background-color: var(--dl-color-default-primary);
+}
+.contact-form-text14 {
+  color: var(--dl-color-neutral-white);
+  height: auto;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-form-text16 {
+  top: 471px;
+  left: 424px;
+  color: rgba(196, 3, 3, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.contact-form-text17 {
+  color: rgba(196, 3, 3, 1);
+}
+.contact-form-text18 {
+  color: rgba(0, 0, 0, 1);
+}

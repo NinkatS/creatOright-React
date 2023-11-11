@@ -1,0 +1,322 @@
+.login2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login2-signinformwhite {
+  width: 100%;
+  height: 1164px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(254, 254, 254, 1);
+}
+.login2-column {
+  gap: 111px;
+  height: 923px;
+  display: flex;
+  padding: 0 32px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 134px;
+  flex-direction: column;
+  justify-content: center;
+}
+.login2-content {
+  gap: 32px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.login2-section-title {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.login2-text {
+  color: rgb(42, 42, 42);
+  height: auto;
+  font-size: 48px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: left;
+  font-family: Gordita;
+  font-weight: 700;
+  line-height: 120%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-text01 {
+  color: rgba(43, 43, 43, 0.5);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-form {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.login2-input {
+  gap: 8px;
+  width: 380px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.login2-text03 {
+  color: rgba(42, 42, 42, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-input1 {
+  color: rgba(43, 43, 43, 0.5);
+  display: flex;
+  padding: 12px;
+  font-size: 16px;
+  align-self: stretch;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.07999999821186066) ;
+  text-align: left;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: Raleway;
+  font-weight: 400;
+  border-color: rgba(214, 214, 214, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login2-input2 {
+  gap: 8px;
+  width: 380px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.login2-text05 {
+  color: rgba(42, 42, 42, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-input3 {
+  color: rgba(43, 43, 43, 0.5);
+  display: flex;
+  padding: 28px 16px 28px 12px;
+  font-size: 30px;
+  align-self: stretch;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.07999999821186066) ;
+  text-align: left;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: Raleway;
+  font-weight: 400;
+  border-color: rgba(214, 214, 214, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login2-content1 {
+  gap: 5px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.login2-frame3 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.login2-rectangle1 {
+  width: 16px;
+  height: 16px;
+  border-color: rgba(214, 214, 214, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
+.login2-text07 {
+  color: rgba(42, 42, 42, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-text09 {
+  color: rgba(42, 42, 42, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-buttons {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.login2-button {
+  gap: 8px;
+  width: 380px;
+  display: flex;
+  padding: 12px 24px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.07999999821186066) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(42, 42, 42, 1);
+}
+.login2-text11 {
+  color: rgb(255, 255, 255);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: "Raleway";
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-button1 {
+  gap: 8px;
+  width: 380px;
+  display: flex;
+  padding: 12px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.07999999821186066) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(214, 214, 214, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login2-flatcoloriconsgoogle {
+  width: 24px;
+  height: 24px;
+}
+.login2-text12 {
+  color: rgba(42, 42, 42, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-content2 {
+  gap: 5px;
+  display: flex;
+  align-items: center;
+}
+.login2-text14 {
+  color: rgb(42, 42, 42);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Raleway";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-text15 {
+  color: rgb(42, 42, 42);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: "Raleway";
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login2-footer {
+  gap: 5px;
+  display: flex;
+  opacity: 0.00;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login2-text16 {
+  color: rgba(42, 42, 42, 1);
+  height: auto;
+  text-align: center;
+  line-height: 150%;
+}
+.login2-frame1 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 16px 16px 0;
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+}
+.login2-placeholder-image {
+  width: 720px;
+  height: auto;
+  align-self: stretch;
+  margin-top: var(--dl-space-space-threeunits);
+  border-radius: 40px;
+  margin-bottom: var(--dl-space-space-threeunits);
+}
